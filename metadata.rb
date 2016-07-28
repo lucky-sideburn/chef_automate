@@ -1,6 +1,6 @@
 name             'chef_automate'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Sourcesense'
+maintainer_email 'eugenio.marzo@sourcesense.com'
 license          'All rights reserved'
 description      'Installs/Configures chef_automate'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

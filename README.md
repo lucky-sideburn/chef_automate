@@ -1,6 +1,14 @@
 # chef_automate Cookbook
 ## Cookbook for install Chef Automate
 ## Testing Chef Automate with Vagrant
+### Platforms
+
+- RHEL/CentOS
+
+### Chef
+
+- Chef 12+
+
 ### Requirements
    * a Chef Server. Change default['chef_automate']['chef_server']['url'] with the correct IP
 

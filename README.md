@@ -21,7 +21,7 @@
    * In your host machine, if you use Vagrant, set "192.168.56.123 automate-box01" in /etc/hosts
 
 ### Usage with Vagrant
-   * git clone https://github.com/lucky-sideburn/chef_automate.git OR knife cookbook site download this_cookbook
+   * git clone https://github.com/lucky-sideburn/chef_automate.git
    * vagrant up
    * go to https://automate-box01/e/umbrella_corporation/ OR use your preferred internal ip OR use port forwarding to http://127.0.0.1
 

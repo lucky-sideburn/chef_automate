@@ -1,0 +1,7 @@
+DEPENDENCIES
+  chef_automate
+    path: .
+    metadata: true
+
+GRAPH
+  chef_automate (0.1.0)

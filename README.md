@@ -1,6 +1,6 @@
 # chef_automate Cookbook
-## Cookbook for install Chef Automate
-## Testing Chef Automate with Vagrant
+## A Chef Cookbook to install Chef Automate
+
 ### Platforms
 
 - RHEL/CentOS
